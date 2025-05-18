@@ -11,7 +11,7 @@ OWNER_ID = int(getenv("OWNER_ID", "7290350162"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://botbaby:botbaby@cluster0.zngip1b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "infinitygx_bot_support")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "gxinfinity_support")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Venom_bolte_pubIic")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Its_tg_seller")
 
 # Random Start Images
 IMG = [
