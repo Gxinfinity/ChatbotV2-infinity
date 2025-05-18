@@ -4,13 +4,13 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 27353035))
-API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "7048354045"))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Venom_Chatz")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "VenomOwners")
+API_ID = int(getenv("API_ID", "7718680866"))
+API_HASH = getenv("API_HASH", "a007ea183e9276803caba61ad093273b")
+BOT_TOKEN = getenv("BOT_TOKEN", "7718680866:AAEX_SfFMaE6efdwoGlFjxQnFVVNYV-Yx1g")
+OWNER_ID = int(getenv("OWNER_ID", "7290350162"))
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://botbaby:botbaby@cluster0.zngip1b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "infinitygx_bot_support")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "gxinfinity_support")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Venom_bolte_pubIic")
 
 # Random Start Images
